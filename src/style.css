@@ -1,0 +1,8 @@
+#qwe {
+  margin-top: 100px;
+}
+@media screen and (max-width: 575px) {
+  .offset-3 {
+    margin-left: 0%;
+  }
+}
